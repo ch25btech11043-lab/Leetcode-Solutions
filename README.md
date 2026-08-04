@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -27,9 +28,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
