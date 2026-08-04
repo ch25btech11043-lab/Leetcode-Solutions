@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
