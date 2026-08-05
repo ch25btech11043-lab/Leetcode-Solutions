@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0282-expression-add-operators](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
