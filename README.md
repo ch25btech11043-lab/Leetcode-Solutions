@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
