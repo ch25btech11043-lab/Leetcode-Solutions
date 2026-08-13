@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0282-expression-add-operators](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
