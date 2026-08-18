@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
