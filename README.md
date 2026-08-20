@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+| [1486-xor-operation-in-an-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0260-single-number-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
