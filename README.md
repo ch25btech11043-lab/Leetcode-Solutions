@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [1486-xor-operation-in-an-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0268-missing-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
@@ -166,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
