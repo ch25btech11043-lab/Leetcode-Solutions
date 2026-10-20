@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0460-lfu-cache](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -184,8 +186,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ch25btech11043-lab/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
