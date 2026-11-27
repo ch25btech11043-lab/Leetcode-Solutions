@@ -10,7 +10,7 @@ public:
             mpp[fruits[r]]++;
             if(mpp.size()<=2) ans=max(ans,r-l+1);
             else{
-                while(mpp.size()>2){
+                if(mpp.size()>2){
                     mpp[fruits[l]]--;
                     if(mpp[fruits[l]]==0) mpp.erase(fruits[l]);
                     l++;
