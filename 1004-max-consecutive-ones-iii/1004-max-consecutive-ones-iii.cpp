@@ -14,10 +14,8 @@ public:
                 ans=max(ans,r-l+1);
             }
             else{
-                while(zeroes > k) {
-                if(nums[l] == 0) zeroes--;
+                if(nums[l]==0) zeroes--;
                 l++;
-                }
             }
             r++;
         }
